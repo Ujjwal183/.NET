@@ -1,0 +1,7 @@
+D:\.Net\Practical File\Two\Largest\Largest\bin\Debug\Largest.exe.config
+D:\.Net\Practical File\Two\Largest\Largest\bin\Debug\Largest.exe
+D:\.Net\Practical File\Two\Largest\Largest\bin\Debug\Largest.pdb
+D:\.Net\Practical File\Two\Largest\Largest\obj\Debug\Largest.csproj.AssemblyReference.cache
+D:\.Net\Practical File\Two\Largest\Largest\obj\Debug\Largest.csproj.CoreCompileInputs.cache
+D:\.Net\Practical File\Two\Largest\Largest\obj\Debug\Largest.exe
+D:\.Net\Practical File\Two\Largest\Largest\obj\Debug\Largest.pdb

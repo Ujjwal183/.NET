@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Practical File\\Five\\Concatinate_Matrix\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19E9E5C6-FB1E-4101-96DC-5A0A62CC6AE6}|Concatinate_Matrix\\Concatinate_Matrix.csproj|d:\\.net\\practical file\\five\\concatinate_matrix\\concatinate_matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E9E5C6-FB1E-4101-96DC-5A0A62CC6AE6}|Concatinate_Matrix\\Concatinate_Matrix.csproj|solutionrelative:concatinate_matrix\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Practical File\\Five\\Concatinate_Matrix\\Concatinate_Matrix\\Program.cs",
+              "RelativeDocumentMoniker": "Concatinate_Matrix\\Program.cs",
+              "ToolTip": "D:\\.Net\\Practical File\\Five\\Concatinate_Matrix\\Concatinate_Matrix\\Program.cs",
+              "RelativeToolTip": "Concatinate_Matrix\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T11:51:59.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

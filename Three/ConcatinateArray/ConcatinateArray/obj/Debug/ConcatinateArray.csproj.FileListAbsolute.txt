@@ -1,0 +1,7 @@
+D:\.Net\Practical File\Three\ConcatinateArray\ConcatinateArray\bin\Debug\ConcatinateArray.exe.config
+D:\.Net\Practical File\Three\ConcatinateArray\ConcatinateArray\bin\Debug\ConcatinateArray.exe
+D:\.Net\Practical File\Three\ConcatinateArray\ConcatinateArray\bin\Debug\ConcatinateArray.pdb
+D:\.Net\Practical File\Three\ConcatinateArray\ConcatinateArray\obj\Debug\ConcatinateArray.csproj.AssemblyReference.cache
+D:\.Net\Practical File\Three\ConcatinateArray\ConcatinateArray\obj\Debug\ConcatinateArray.csproj.CoreCompileInputs.cache
+D:\.Net\Practical File\Three\ConcatinateArray\ConcatinateArray\obj\Debug\ConcatinateArray.exe
+D:\.Net\Practical File\Three\ConcatinateArray\ConcatinateArray\obj\Debug\ConcatinateArray.pdb
