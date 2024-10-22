@@ -1,0 +1,7 @@
+D:\.Net\Practical File\Four\Array2_3\Array2_3\bin\Debug\Array2_3.exe.config
+D:\.Net\Practical File\Four\Array2_3\Array2_3\bin\Debug\Array2_3.exe
+D:\.Net\Practical File\Four\Array2_3\Array2_3\bin\Debug\Array2_3.pdb
+D:\.Net\Practical File\Four\Array2_3\Array2_3\obj\Debug\Array2_3.csproj.AssemblyReference.cache
+D:\.Net\Practical File\Four\Array2_3\Array2_3\obj\Debug\Array2_3.csproj.CoreCompileInputs.cache
+D:\.Net\Practical File\Four\Array2_3\Array2_3\obj\Debug\Array2_3.exe
+D:\.Net\Practical File\Four\Array2_3\Array2_3\obj\Debug\Array2_3.pdb

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Constructor
 {
-    internal class Program
+    
+    class Program
     {
         static void Main(string[] args)
         {
